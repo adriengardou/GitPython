@@ -1,3 +1,4 @@
+
 ![Python package](https://github.com/gitpython-developers/GitPython/workflows/Python%20package/badge.svg)
 [![Documentation Status](https://readthedocs.org/projects/gitpython/badge/?version=stable)](https://readthedocs.org/projects/gitpython/?badge=stable)
 [![Packaging status](https://repology.org/badge/tiny-repos/python:gitpython.svg)](https://repology.org/metapackage/python:gitpython/versions)
